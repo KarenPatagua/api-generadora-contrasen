@@ -17,8 +17,8 @@ Este proyecto es una aplicación web simple desarrollada con **Python** y **Flas
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
+git clone https://github.com/KarenPatagua/api-generadora-contrasen.git
+cd api-generadora-contrasen
 ```
 
 > 💡 Reemplazá la URL con la de tu propio repositorio.
