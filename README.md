@@ -67,7 +67,8 @@ FROM python:3.11
 ├── app.py
 ├── requirements.txt
 ├── Dockerfile
-├── style.css
+└── Static
+   └── style.css
 ├── README.md
 └── templates
     └── index.html
