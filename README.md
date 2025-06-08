@@ -83,8 +83,4 @@ FROM python:3.11
 
 ---
 
-## 👩‍💻 Autor
 
-- Estudiante: [Tu nombre aquí]
-- Proyecto para la clase de Git + Docker
-- Año: 2025
