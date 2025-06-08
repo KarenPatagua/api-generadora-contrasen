@@ -62,11 +62,16 @@ FROM python:3.11
 ## 🗂 Estructura del proyecto
 
 ```
-generador_password/
+/api-generadora-contrasen
+│
 ├── app.py
+├── requirements.txt
 ├── Dockerfile
-└── README.md
-```
+├── style.css
+├── README.md
+└── templates
+    └── index.html
+
 
 ---
 
